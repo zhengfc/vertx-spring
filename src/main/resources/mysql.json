@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "port": 3306,
+  "max-pool-size": 15,
+  "username": "demo",
+  "password": "i1Ma1iEvcmcdIcsp",
+  "database": "demo"
+}

@@ -1,0 +1,3 @@
+server:
+  port: 9000
+  context-path: /demo
